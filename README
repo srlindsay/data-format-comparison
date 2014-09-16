@@ -1,0 +1,5 @@
+Experiments to compare data serialization/modeling libraries.
+
+Currently only considering:
+  * Thrift
+  * Protobuf
