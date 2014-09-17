@@ -23,6 +23,3 @@ Scala protobuf integrations:
 - sbt-protobuf (https://github.com/sbt/sbt-protobuf):  Maybe just produces java code?  Not clear from the description.  Less activity and fewer committers than ScalaBuff and sbt-scalabuff.
 
 - protobuf-scala (https://code.google.com/p/protobuf-scala/):  Seems dead.  Open issues like 'Message generation broken', which hasn't been updated since 2011.
-
-
-
