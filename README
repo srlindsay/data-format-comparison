@@ -3,3 +3,5 @@ Experiments to compare data serialization/modeling libraries.
 Currently only considering:
   * Thrift
   * Protobuf
+
+The thrift scrooge generation script won't work unless you've built scrooge locally.  Manual generation of scrooge thrift definitions shouldn't be necessary, though -- we'd likely use the sbt plugin for that.
